@@ -1,0 +1,40 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.column {
+  width: 45%;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.column h1 {
+  color: goldenrod;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.column h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+  color: #4285f4;
+}
+
+
+ul.list {
+  padding: 0;
+  margin-top: 10px;
+  background-color: #cfcbcb;
+}
+
+ul.list li {
+  list-style-type: none;
+  font-size: 16px;
+  padding: 5px 0px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
+

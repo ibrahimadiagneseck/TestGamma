@@ -1,6 +1,6 @@
 import React from 'react';
 
-function FizzBuzz() {
+function FizzBuzz2() {
     
     const resultats = [];
 
@@ -32,4 +32,4 @@ function FizzBuzz() {
     );
 }
 
-export default FizzBuzz;
+export default FizzBuzz2;
